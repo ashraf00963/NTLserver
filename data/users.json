@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "username": "ashrf00963@gmail.com",
+    "password": "123456789",
+    "isAdmin": true,
+    "street": "keothenerstr",
+    "postalcode": "12689",
+    "city": "berlin",
+    "country": "Germany"
+  }
+]

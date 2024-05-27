@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Scarlet Eyes",
+    "collection": "Satan's Son",
+    "img": "/red1.jpg",
+    "price": 73430,
+    "description": "24-karat gold case and bracelet. Scarlet Eyes adds a bold pop of color to any ensemble while exuding sophistication and style."
+  },
+  {
+    "id": 2,
+    "name": "Sultriness",
+    "collection": "Satan's Son",
+    "img": "/red2.jpg",
+    "price": 128550,
+    "description": "White gold case and obsidian bracelet with 35 rubies. Sultriness epitomizes timeless sophistication and opulence."
+  },
+  {
+    "id": 3,
+    "name": "RedOasis",
+    "collection": "Satan's Son",
+    "img": "/red3.jpg",
+    "price": 56890,
+    "description": "White gold case and black leather strap. RedOasis exudes bold elegance and luxury."
+  },
+  {
+    "id": 4,
+    "name": "Enigma's Charm",
+    "collection": "Lost Emerald",
+    "img": "/green1.jpg",
+    "price": 42592,
+    "description": "24-karat gold case with black gold accents and matching bracelet. Enigma's Charm offers a striking fusion of luxury and contemporary design."
+  },
+  {
+    "id": 5,
+    "name": "Fey Whisper",
+    "collection": "Lost Emerald",
+    "img": "/green2.jpg",
+    "price": 23689,
+    "description": "24-karat gold case and bracelet. Fey Whisper exudes refined elegance with a touch of sophistication."
+  },
+  {
+    "id": 6,
+    "name": "Aurora's Tear",
+    "collection": "Lost Emerald",
+    "img": "/green3.jpg",
+    "price": 21760,
+    "description": "White gold case and bracelet. Aurora's Tear epitomizes understated luxury and timeless sophistication."
+  },
+  {
+    "id": 7,
+    "name": "Leviathan",
+    "collection": "The Great Poseidon",
+    "img": "/blue1.jpg",
+    "price": 68950,
+    "description": "White gold case adorned with 118 diamonds and matching bracelet. Leviathan offers a contemporary twist on classic timepiece design with a touch of boldness and sophistication."
+  },
+  {
+    "id": 8,
+    "name": "Triton's Wrath",
+    "collection": "The Great Poseidon",
+    "img": "/blue2.2.jpg",
+    "price": 46999,
+    "description": "24-karat gold case and sleek black bracelet. Triton's Wrath exudes an air of modern elegance and sophistication with a bold, understated presence."
+  },
+  {
+    "id": 9,
+    "name": "Cerulean",
+    "collection": "The Great Poseidon",
+    "img": "/blue3.jpg",
+    "price": 27980,
+    "description": "24-karat gold case and matching black bracelet. Cerulean offers a timeless yet modern aesthetic that exudes understated luxury and refinement."
+  },
+  {
+    "id": 10,
+    "img": "/gold1.jpg",
+    "name": "Elegance",
+    "collection": "Luxe Gold Collection",
+    "price": 12000,
+    "description": "Experience opulence with our NTL Golden Elegance timepiece, a stunning addition to our Luxe Gold Collection. Crafted from 100% pure 24-carat gold, this watch epitomizes luxury and sophistication. Elevate your style with timeless elegance and unparalleled craftsmanship"
+  }
+]
